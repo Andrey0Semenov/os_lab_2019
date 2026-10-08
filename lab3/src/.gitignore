@@ -1,0 +1,15 @@
+# Бинарники
+sequential_min_max
+parallel_min_max
+find_max_min
+sequential_min_max_launcher
+
+# Объектные файлы
+*.o
+
+# Библиотеки
+*.a
+*.so
+
+# Файлы синхронизации
+*.txt
